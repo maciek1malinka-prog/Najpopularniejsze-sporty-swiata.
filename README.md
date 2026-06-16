@@ -44,7 +44,7 @@
 
         <a href="polska.html" class="stadion-box specjalny">
             <h2>Siatkówka i Skoki</h2>
-            <p>Liderzy w Polsce! Siatkówka ma 900 mln fanów globalnie, a w Polsce generuje (obok skoków narciarskich) gigantyczne emocje.</p>
+            <p>Liderzy w Polsce! Siatkówka ma 900 mln fanów globalnie, a w Polsce generuje gigantyczne emocje.</p>
         </a>
 
     </div>
